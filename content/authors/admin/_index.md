@@ -32,11 +32,11 @@ social:
   link: https://twitter.com/BarslundGreen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=da&user=ZfZFMTUAAAAJ
+  link: https://scholar.google.co.uk/citations?&user=ZfZFMTUAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/abgroen
-- icon: <img class="social-icon social-icon--linkedin" src="/assets/icons/linkedin.svg" onerror="this.src='/assets/icons/linkedin.png';this.onerror=null;">
+- icon: linkedin
   iconpack: fab
   link: https://www.linkedin.com/in/andersgroen
 superuser: true
