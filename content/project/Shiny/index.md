@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020-04-01T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
@@ -8,12 +8,12 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/BarslundGreen
 slides: example
-summary: An example of using the in-built project page.
+summary: Description of my first Shiny app.
 tags:
 - Deep Learning
-title: Internal Project
+title: Shiny app
 url_code: ""
 url_pdf: ""
 url_slides: ""
