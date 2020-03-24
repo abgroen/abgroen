@@ -7,7 +7,7 @@ education:
   courses:
   - course: PhD in Collaborative Leadership
     institution: Aarhus University
-    year: 2020-2023
+    year: 2023
   - course: MSc in Political Science
     institution: Aarhus University
     year: 2019
@@ -16,13 +16,13 @@ education:
     year: 2017
 email: ""
 interests:
-- Public administation and leadership
-- Statistics, machine learning and data science
-- Teaching
+- Public administation and Leadership
+- Statistics, Machine Learning and Data Science
+- Teaching and Social Innovation
 name: Anders Grøn
 organizations:
 - name: Aarhus University
-  url: ""
+  url: "https://au.dk/"
 role: PhD in Public Leadership
 social:
 - icon: envelope
@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-I grew up in a suburban area near Fredericia, a midsize city in southern Jutland, Denmark. I have been offered a PhD scholarship at Aarhus University, that is the same place I studied Political Science from 2014 to 2019.
+My name is Anders Grøn, I'm standing at 6"4, and I grew up in a suburban area near Fredericia, a midsize city in southern Jutland, Denmark. You have arrived at my personal web page. Read along for personal as well as professional insights into my world. Feel free to reach out. 
 
-My PhD will focus on public leadership and I will be affiliated with the  <a href = "https://ps.au.dk/en/crown-prince-frederik-center-for-public-leadership/" rel ="follow"><strong>Crown Prince Frederik Center for Public Leadership</strong></a>. My research interests include collaborative leadership, organizational coordination and data science. 
+I have been offered a PhD scholarship at Aarhus University, which is the same place I studied Political Science from 2014 to 2019. My PhD will focus on public leadership and I will be affiliated with the  <a href = "https://ps.au.dk/en/crown-prince-frederik-center-for-public-leadership/" rel ="follow"><strong>Crown Prince Frederik Center for Public Leadership</strong></a>. My research interests in general include collaborative leadership, organizational coordination and data science. 
