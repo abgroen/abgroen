@@ -36,7 +36,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/abgroen
-- icon: linkedin
+- icon: <img class="social-icon social-icon--linkedin" src="/assets/icons/linkedin.svg" onerror="this.src='/assets/icons/linkedin.png';this.onerror=null;">
   iconpack: fab
   link: https://www.linkedin.com/in/andersgroen
 superuser: true
