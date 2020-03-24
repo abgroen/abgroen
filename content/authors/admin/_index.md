@@ -46,4 +46,6 @@ user_groups:
 - Visitors
 ---
 
-Anders Grøn is a PhD fellow-to-be of public leadership at Crown Prince Frederik Center for Public Leadership, which resides at Dept. of Political Science, Aarhus University. His research interests include collaborative leadership, organizational coordination and data science. 
+I grew up in a suburban area near Fredericia, a midsize city in southern Jutland, Denmark. I have been offered a PhD scholarship at Aarhus University, that is the same place I studied Political Science from 2014 to 2019.
+
+My PhD will focus on public leadership and I will be affiliated with the  <a href = "https://ps.au.dk/en/crown-prince-frederik-center-for-public-leadership/" rel ="follow"><strong>Crown Prince Frederik Center for Public Leadership</strong></a>. My research interests include collaborative leadership, organizational coordination and data science. 

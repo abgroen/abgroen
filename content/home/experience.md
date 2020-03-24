@@ -43,12 +43,14 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Teaching assistant"
-  company = "University X"
+  title = "Teaching Assistant"
+  company = "Aarhus University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught for five semester in four different subjects. The first in 16 years to achieve such constistency and variation."""
+  location = "Aarhus"
+  date_start = "2016-09-01"
+  date_end = "2019-06-01"
+  description = """
+  I taught for five semester in four different subjects. The first in 16 years to achieve such constistency and variation. Examples are theory of science, methodology and public policy.
+  """
 
 +++
