@@ -1,14 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+external_link: https://ps.au.dk/fileadmin/Statskundskab/CPL/Hjemmeside/Projektbeskrivelser/LEDELSE_AF_ORGANISATORISK_SAMMENHAENG__LEOS__.pdf
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Research project focusing on leadership and organizational coherence.
 tags:
 - Demo
 title: LEOS
 ---
-
-
-TEST
