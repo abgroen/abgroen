@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Anders Grøn, I'm standing at 6'4", and I grew up in a suburban area near Fredericia, a midsize city in southern Denmark. You have arrived at my personal web page where I share personal and professional insights into my world as it unfolds. These insights cover thoughts on my academic background, blog posts related to data science and life as a PhD student, professional and personal data-driven projects, and academic publications. Feel free to reach out if anything sparks your interest.
+My name is Anders Grøn, I'm standing at 6'4", and I grew up in a suburban area near Fredericia, a midsize city in southern Denmark. You have arrived at my personal web page where I share personal and professional insights into my world as it unfolds. These insights cover thoughts on my academic background, blog posts related to data science and life as a PhD student, professional and personal data-driven projects, and academic publications. Feel free to <a href = "https://www.abgroen.com/#contact" rel ="follow"><strong>reach out</strong></a> if anything sparks your interest.
 
 I have been offered a PhD scholarship at Aarhus University (beginning Sept. 2020), which is the same place I studied Political Science from 2014 to 2019. My PhD will focus on public leadership and I will be affiliated with the <a href = "https://ps.au.dk/en/crown-prince-frederik-center-for-public-leadership/" rel ="follow"><strong>Crown Prince Frederik Center for Public Leadership</strong></a>. My main supervisor is <a href = "https://pure.au.dk/portal/da/persons/christian-boetcher-jacobsen(fd9dea84-2af2-4d41-89ac-117e13f5324c).html" rel ="follow"><strong>Christian Bøtcher Jacobsen</strong></a>.
 
