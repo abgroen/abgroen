@@ -15,11 +15,11 @@
 
 [[main]]
   name = "BLOG"
-  url = "#blog"
+  url = "#post"
   weight = 30
 
 [[main]]
-  name = "Projects"
+  name = "PROJECTS"
   url = "#projects"
   weight = 40
 
@@ -34,7 +34,7 @@
 #  weight = 60
 
 [[main]]
-  name = "Contact"
+  name = "CONTACT"
   url = "#contact"
   weight = 70
 
