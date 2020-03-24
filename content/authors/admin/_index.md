@@ -29,13 +29,13 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/BarslundGreen
+  link: https://twitter.com/groen_ab
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?&user=ZfZFMTUAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/groen_ab
+  link: https://github.com/abgroen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/andersgroen
