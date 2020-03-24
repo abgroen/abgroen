@@ -10,10 +10,10 @@ education:
     year: 2020-2023
   - course: MSc in Political Science
     institution: Aarhus University
-    year: 2009
+    year: 2019
   - course: BSc in Political Science
     institution: Aarhus University
-    year: 2008
+    year: 2017
 email: ""
 interests:
 - Public administation and leadership
