@@ -12,7 +12,7 @@ links:
 slides: example
 summary: Description of my first Shiny app.
 tags:
-- Deep Learning
+- Personal
 title: Shiny app
 url_code: ""
 url_pdf: ""
