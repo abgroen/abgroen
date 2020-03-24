@@ -21,28 +21,29 @@ interests:
 - Teaching
 name: Anders Grøn
 organizations:
-- name: Stanford University
+- name: Aarhus University
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD in Public Leadership
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/BarslundGreen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/abgroen
+- icon: linkedin
+  iconpack: fab
+  link: https://www.linkedin.com/in/andersgroen
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Anders Grøn is a PhD fellow-to-be of public leadership at Crown Prince Frederik Center for Public Leadership, which resides at Dept. of Political Science, Aarhus University. His research interests include collaborative leadership, orgazational coordiatnion and data science. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Anders Grøn is a PhD fellow-to-be of public leadership at Crown Prince Frederik Center for Public Leadership, which resides at Dept. of Political Science, Aarhus University. His research interests include collaborative leadership, organizational coordination and data science. 
