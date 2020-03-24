@@ -37,7 +37,7 @@ social:
   icon_pack: fab
   link: https://github.com/groen_ab
 - icon: linkedin
-  iconpack: fab
+  icon_pack: fab
   link: https://www.linkedin.com/in/andersgroen
 superuser: true
 user_groups:
