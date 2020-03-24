@@ -21,12 +21,4 @@ url_video: ""
 ---
 
 At some point, this project will describe my first Shiny application. Stay tuned!
-At some point, this project will describe my first Shiny application. Stay tuned!
-At some point, this project will describe my first Shiny application. Stay tuned!
-At some point, this project will describe my first Shiny application. Stay tuned!
-At some point, this project will describe my first Shiny application. Stay tuned!
-At some point, this project will describe my first Shiny application. Stay tuned!
-At some point, this project will describe my first Shiny application. Stay tuned!
-At some point, this project will describe my first Shiny application. Stay tuned!
-At some point, this project will describe my first Shiny application. Stay tuned!
-At some point, this project will describe my first Shiny application. Stay tuned!
+
