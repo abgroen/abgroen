@@ -4,8 +4,8 @@ external_link: https://ps.au.dk/fileadmin/Statskundskab/CPL/Hjemmeside/Projektbe
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: Research project focusing on leadership and organizational coherence.
+summary: Research project focusing on leadership and organizational cooperation and coherence.
 tags:
-- Demo
+- Professional
 title: LEOS
 ---

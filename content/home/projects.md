@@ -24,6 +24,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+    
+  [[content.filter_button]]
+  name = "Professional"
+  tag = "Professional"
+  
+  [[content.filter_button]]
+  name = "Personal"
+  tag = "Personal"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
