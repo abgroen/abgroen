@@ -37,9 +37,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Data analysis of register data
+  * Data analysis of Danish register data
   * Machine learning modelling
-  * Communication and evaluation design
+  * Designing and evaluating RCTs
   """
 
 [[experience]]
