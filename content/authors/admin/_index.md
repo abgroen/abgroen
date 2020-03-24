@@ -4,7 +4,7 @@ authors:
 bio: My research interests include public administation, data science, and social innovation.
 education:
   courses:
-  - course: PhD in Collaborative Leadership
+  - course: PhD in Political Science
     institution: Aarhus University
     year: 2023
   - course: MSc in Political Science
@@ -22,7 +22,7 @@ name: Anders Grøn
 organizations:
 - name: Aarhus University
   url: "https://international.au.dk/"
-role: PhD in Public Leadership
+role: PhD Fellow in Political Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,5 +49,6 @@ My name is Anders Grøn, I'm standing tall at 6'4", and I grew up in a suburban 
 
 I have been offered a PhD scholarship beginning Sept. 2020 at Aarhus University which is the same place I achieved my BSc and Msc degrees in Political Science between 2014 and 2019. My PhD project will focus on collaborative public leadership and I will be affiliated with the <a href = "https://ps.au.dk/en/crown-prince-frederik-center-for-public-leadership/" rel ="follow"><strong>Crown Prince Frederik Center for Public Leadership</strong></a>. My main supervisor will be <a href = "https://pure.au.dk/portal/da/persons/christian-boetcher-jacobsen(fd9dea84-2af2-4d41-89ac-117e13f5324c).html" rel ="follow"><strong>Christian Bøtcher Jacobsen</strong></a>.
 
-My research interests in general include collaborative leadership, organizational coordination and data science. As such, I love dealing with complex data and it is my passion to tell stories using data and solve problems within the public and social realm. I am enthusiastic about leveraging methods of modern statistics and data visualisation to extract patterns from intertwined, unstructured datasets.
+My research interests in general include public leadership and performance, organizational coordination, and data science. I am enthusiastic about leveraging methods of modern statistics and data visualisation to extract patterns from intertwined, unstructured datasets. As such, I love dealing with complex data and it is my passion to use data to tell stories as well as solve ever-changing problems within the public and social realm.
 
+I live in Copenhagen at the moment but I move to Aarhus come summer 2020.
