@@ -22,11 +22,16 @@
   name = "BLOG"
   url = "#posts"
   weight = 30
+  
+[[main]]
+  name = "PODCASTS"
+  url = "#po"
+  weight = 40
 
 [[main]]
   name = "PROJECTS"
   url = "#projects"
-  weight = 40
+  weight = 45
 
 #[[main]]
 #  name = "PUBLICATIONS"
