@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Anders Grøn. I'm an avid runner, decent cook, and fast-balding young professional. You have arrived at my personal web page where I share insights into my life as it unfolds. These insights cover thoughts on my academic background, blog posts and podcasts related to e.g. data science and life as a PhD student, cool professional and personal data-driven projects, and my academic publications (might be a while...).
+My name is Anders Grøn. I'm an avid runner, decent cook, and fast-balding young professional. You have arrived at my personal web page where I share insights into my life as it unfolds. These insights cover thoughts on my personal and academic background, blog posts and podcasts related to e.g. data science and life as a PhD student, cool professional and personal data-driven projects, and my academic publications (might be a while...).
 
 I have been offered a PhD scholarship beginning Sept. 2020 at Aarhus University which is the same place I achieved my BSc and MSc degrees in Political Science between 2014 and 2019. My PhD project will focus on collaborative public leadership and I will be affiliated with the <a href = "https://ps.au.dk/en/crown-prince-frederik-center-for-public-leadership/" rel ="follow"><strong>Crown Prince Frederik Center for Public Leadership</strong></a>. My main supervisor will be <a href = "https://pure.au.dk/portal/da/persons/christian-boetcher-jacobsen(fd9dea84-2af2-4d41-89ac-117e13f5324c).html" rel ="follow"><strong>Christian Bøtcher Jacobsen</strong></a> who serves as the center's vice director.
 
