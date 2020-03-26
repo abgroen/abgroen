@@ -7,17 +7,17 @@ date: "2020-03-20T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: **Photo by Paweł Czerwiński on Unsplash**'
+  caption: 'Image credit: **Photo by Jason Rosewell on Unsplash**'
   focal_point: ""
   placement: 2
   preview_only: false
 lastmod: "2020-03-27T00:00:00Z"
 projects: []
-subtitle: 'Interview with ...'
-summary: Interview with ....
+subtitle: 'Talking to ...'
+summary: Talking to ... 
 tags:
 - Academic
-title: 'polisci [1]: Talk with X' 
+title: 'live.a.little [1]: Talk with Y' 
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
