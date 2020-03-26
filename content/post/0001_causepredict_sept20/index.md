@@ -4,7 +4,6 @@ diagram: true
 image:
   caption: 'Image credit: **Photo by Martin Spiske on Unsplash**'
   placement: 3
-math: true
 title: cause&predict! [1]: Averages and their implications
 ---
 
