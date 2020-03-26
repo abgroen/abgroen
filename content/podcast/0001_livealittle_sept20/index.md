@@ -11,7 +11,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-03-27T00:00:00Z"
+lastmod: "2020-03-20T00:00:00Z"
 projects: []
 subtitle: 'Talking to ...'
 summary: Talking to ... 
