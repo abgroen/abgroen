@@ -2,12 +2,17 @@
 date: "2020-03-26"
 diagram: true
 image:
-  caption: 'Image credit: [**Photo by Kristina Flour on Unsplash**]'
+  caption: 'Image credit: **Photo by Kristina Flour on Unsplash**'
   placement: 3
 math: true
-title: What's the point? Silence and thoughtfulness
+title: stop.the.talking! [1]: Silence and thoughtfulness
 ---
 
+This will become the first blog-post in the stop.the.talking! series where I dissect the current trent of talking without about issues, you know nothing about while forgetting how silence and thoughfulness can play an important part for mental clarity. The conclusion is clear: Take responsibility for yourself.
+
+
+
+[TEMPLATE]
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
