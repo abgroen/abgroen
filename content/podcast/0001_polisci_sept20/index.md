@@ -7,7 +7,7 @@ date: "2020-03-20T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: **Photo by Jason Rosewell on Unsplash**'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -17,7 +17,7 @@ subtitle: 'Interview with ...'
 summary: Interview with ....
 tags:
 - Academic
-title: 'POLISCI 1: CHECK'
+title: 'polisci [1]: Talk with X' 
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
