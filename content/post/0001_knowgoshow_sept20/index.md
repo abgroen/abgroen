@@ -11,7 +11,6 @@ title: know/go/show [1]: Leadership and a Crown Prince
 This will become the first blog-post in the know/go/show series where I delve into the leadership literature and why I think it is one of the most exiciting areas for social sciences in the future. Futhermore, I hope to provide a glance into the work at CPL.
 
 
-
  
 [TEMPLATE]
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
