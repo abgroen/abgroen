@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Blog"
-subtitle = ""
+subtitle = "Four branches: day in the life, stop.the.talking!, cause&predict, and know/go/show."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
