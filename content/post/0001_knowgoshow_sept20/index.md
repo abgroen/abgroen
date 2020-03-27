@@ -2,14 +2,13 @@
 date: "2020-03-20"
 diagram: true
 image:
-  caption: 'Image credit: **Photo by Clark Tibbs on Unsplash**'
+  caption: 'Image credit: **Clark Tibbs on Unsplash**'
   placement: 3
 math: true 
-title: "know/go/show [1]: Leadership and a Crown Prince"
+title: "know/go/show [ep.1]: Leadership and a Crown Prince"
 ---
 
 This will become the first blog-post in the know/go/show series where I delve into the leadership literature and why I think it is one of the most exiciting areas for social sciences in the future. Futhermore, I hope to provide a glance into the work at CPL.
-
 
  
 [TEMPLATE]

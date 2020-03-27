@@ -2,10 +2,10 @@
 date: "2020-03-20"
 diagram: true
 image:
-  caption: 'Image credit: **Photo by Steven Vanderheide**'
+  caption: 'Image credit: **Steven Vanderheide**'
   placement: 3
 math: true 
-title: "day in the life! [1]: Back to Aarhus"
+title: "day in the life! [ep.1]: Back to Aarhus"
 ---
 
 This will become the first blog-post in the day in the life series where I set out to answer: who am I - where - and why? Follow my journey.

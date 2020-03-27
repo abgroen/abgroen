@@ -2,10 +2,10 @@
 date: "2020-03-20"
 diagram: true
 image:
-  caption: 'Image credit: **Photo by Kristina Flour on Unsplash**'
+  caption: 'Image credit: **Kristina Flour on Unsplash**'
   placement: 3
 math: true
-title: "stop.the.talking! [1]: Silence and thoughtfulness"
+title: "stop.the.talking! [ep.1]: Silence and thoughtfulness"
 --- 
 
 This will become the first blog-post in the stop.the.talking! series where I dissect the current trent of talking without about issues, you know nothing about while forgetting how silence and thoughfulness can play an important part for mental clarity. The conclusion is clear: Take responsibility for yourself.

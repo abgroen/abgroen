@@ -2,10 +2,10 @@
 date: "2020-03-20"
 diagram: true
 image:
-  caption: 'Image credit: **Photo by Martin Spiske on Unsplash**'
+  caption: 'Image credit: **Jonas Thijs on Unsplash**'
   placement: 3
 math: true
-title: "cause&predict (1): Averages and their implications"
+title: "cause&predict [ep.1]: Averages and their implications"
 ---
 
 This will become the first blog-post in the cause&predict series where I discuss latest trend regarding statistics and data science. I will review books, discuss implication of ideas, and reflect on how social and computer science might be combined for the better.
