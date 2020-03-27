@@ -17,7 +17,7 @@ subtitle: 'Interview with ...'
 summary: Interview with ....
 tags:
 - Academic
-title: 'polisci [1]: Talk with X' 
+title: "polisci [1]: Talk with X"
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**

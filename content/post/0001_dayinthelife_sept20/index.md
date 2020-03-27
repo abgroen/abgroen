@@ -5,7 +5,7 @@ image:
   caption: 'Image credit: **Photo by Steven Vanderheide**'
   placement: 3
 math: true 
-title: day in the life! [1]: Back to Aarhus
+title: "day in the life! [1]: Back to Aarhus"
 ---
 
 This will become the first blog-post in the day in the life series where I set out to answer: who am I - where - and why? Follow my journey.
