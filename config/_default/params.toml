@@ -86,7 +86,7 @@ phone = "+45 61 28 32 10"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bartholins Allé 7", city = "Aarhus", region = "", postcode = "8000", country = "Denmark", country_code = "DK"}
+address = {street = "Bartholins Allé 7", city = "Aarhus C", region = "", postcode = "8000", country = "Denmark", country_code = "DK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -259,8 +259,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
+  engine = 1
+  api_key = "AIzaSyCsIAHhMrhsx8hFIL367YyTiS3HImLi6Jo"
   zoom = 15
 
 ############################
