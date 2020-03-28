@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Podcasts
+title: Podcast
 view: 2
 ---
