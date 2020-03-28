@@ -2,7 +2,7 @@
 date: "2020-03-01T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'Image credit: **Martin Spiske on Unsplash**'
   focal_point: Smart
 links:
 - icon: twitter
