@@ -22,6 +22,11 @@
   name = "PODCAST"
   url = "#podcasts"
   weight = 40
+  
+[[main]]
+  name = "ALL PODCASTS"  # Title of the link.
+  url = "all_podcasts/"  # Widget Page folder name.
+  weight = 43  # Position of the link in the navigation bar.
 
 [[main]]
   name = "PROJECTS"
