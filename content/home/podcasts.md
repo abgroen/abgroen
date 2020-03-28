@@ -67,7 +67,4 @@ subtitle = "Interviews and talks with fellow academics and interesting people."
  css_class = ""
 +++
 
-https://www.abgroen.com/all_podcasts/
-
-
 
