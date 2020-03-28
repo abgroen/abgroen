@@ -5,6 +5,8 @@ image:
   caption: 'Image credit: **Jonas Thijs on Unsplash**'
   placement: 3
 math: true
+tags:
+- Personal
 title: "cause&predict [ep.1]: Averages and their implications"
 ---
 
