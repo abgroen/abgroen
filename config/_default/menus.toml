@@ -8,11 +8,6 @@
   url = "#about"
   weight = 1
 
-#[[main]]
-#  name = "ACCOMPLISHMENTS"
-#  url = "#accomplishments"
-#  weight = 25
-
 [[main]]
   name = "BLOG"
   url = "#posts"
@@ -27,16 +22,6 @@
   name = "PROJECTS"
   url = "#projects"
   weight = 4
-
-#[[main]]
-#  name = "PUBLICATIONS"
-#  url = "#publications"
-# weight = 50
-
-#[[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 60
 
 [[main]]
   name = "EXPERIENCE"
@@ -54,3 +39,23 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 80
+
+# EXCESS AT THE MOMENT
+
+#[[main]]
+#  name = "PUBLICATIONS"
+#  url = "#publications"
+# weight = X
+
+#[[main]]
+#  name = "COURSES"
+#  url = "courses/"
+#  weight = X
+
+#[[main]]
+#  name = "ACCOMPLISHMENTS"
+#  url = "#accomplishments"
+#  weight = X
+
+
+
