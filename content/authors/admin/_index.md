@@ -51,4 +51,4 @@ I have been offered a PhD scholarship beginning Sept. 2020 at Aarhus University 
 
 My research interests include public leadership and performance, social innovation, organizational coordination, and data scientific methods. I am enthusiastic about using methods from modern statistics and data visualisation to extract meaningful patterns from intertwined, unstructured datasets. As such, it is my passion to tell stories through complex data as well as illuminate omnipresent, ever-changing challenges within the public, civic, and social realms of our society.
 
-I live in Copenhagen at the moment but move to Aarhus come summer 2020. Feel free to <a href = "https://www.abgroen.com/#contact" rel ="follow"><strong>reach out</strong></a> if anything sparks your interest.
+I live in Copenhagen at the moment but move to Aarhus come summer 2020. Feel free to take a look at my <a href = "https://www.abgroen.com/#experience" rel ="follow"><strong>CV</strong></a> or <a href = "https://www.abgroen.com/#contact" rel ="follow"><strong>reach out</strong></a> if anything sparks your interest.
