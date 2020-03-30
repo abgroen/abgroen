@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Blog"
-subtitle = "Four series: day in the life, stop.the.talking!, cause&predict, and know/go/show."
+subtitle = "Four series: day in the life, stop.the.talking!, cause&predict, and know/go/show. Expect an insight into my minds; raw, unfiltered, and rambling - a place for me to refine my arguments and thinking."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

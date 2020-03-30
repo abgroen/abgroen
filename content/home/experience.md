@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "Check out my CV for fuller descriptions."
+subtitle = "Check out my CV (see the ABOUT-section) for fuller descriptions."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "PhD Fellow"
+  title = "PhD Fellow in Political Science"
   company = "Aarhus University"
   company_url = ""
   location = "Aarhus"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """TBD."""
 
 [[experience]]
-  title = "Analyst"
+  title = "Data Analyst, Machine Learner"
   company = "Rockwool Fonden"
   company_url = ""
   location = "Copenhagen"
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2019-06-01"
   description = """
-  I taught for five semesters in four different subjects. The first in 16 years to achieve such constistency and variation. Examples are theory of science, methodology and public policy.
+  I taught for five semesters in four different subjects. I was the first in 16 years to achieve such constistency and variation in my teaching. Examples are theory of science, methodology and public policy.
   """
 
 +++

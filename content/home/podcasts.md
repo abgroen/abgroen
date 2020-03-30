@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Podcast"
-subtitle = "Interviews and talks with fellow academics and interesting people."
+subtitle = "Two series: polisci and live.a.little. Expect interviews and talks with fellow academics and other interesting people."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
