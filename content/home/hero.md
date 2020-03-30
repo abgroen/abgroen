@@ -43,11 +43,11 @@ hero_media = "hero-academic.png"
   icon = "download"
   
 #[cta_alt]
-#  url = "https://sourcethemes.com/academic/"
-#  label = "View Documentation"
+  url = "https://sourcethemes.com/academic/"
+  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-#[cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+[cta_note]
+  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
