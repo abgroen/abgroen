@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """TBD."""
 
 [[experience]]
-  title = "Data Analyst, Machine Learner"
+  title = "Data Analyst & Machine Learner"
   company = "Rockwool Fonden"
   company_url = ""
   location = "Copenhagen"
