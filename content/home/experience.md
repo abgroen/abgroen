@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2019-06-01"
   description = """
-  I taught for five semesters in four different subjects. I was the first in 16 years to achieve such constistency and variation in my teaching. Examples are theory of science, methodology and public policy.
+  I taught for five semesters in four different subjects. I was the first in 16 years to achieve such constistency and variation in my teaching. Examples are Theory of Science, Methodology, and Public Policy.
   """
 
 +++
