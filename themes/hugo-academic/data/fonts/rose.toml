@@ -5,7 +5,7 @@ name = "Rose"
 google_fonts = "Cutive+Mono|Lora:400,700|Roboto:400,700"
 
 # Font families
-heading_font = "Roboto"
-body_font = "Roboto"
-nav_font = "Roboto"
+heading_font = "Cutive Mono"
+body_font = "Cutive Mono"
+nav_font = "Cutive Mono"
 mono_font = "Cutive Mono"
