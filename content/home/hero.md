@@ -48,7 +48,7 @@ title = "a heartfelt welcome!"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'blogs, podcasts, projects, life'
+  label = 'life, blogs, podcasts, projects, data science, polisci'
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
