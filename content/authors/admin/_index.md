@@ -15,9 +15,11 @@ education:
     year: 2017
 email: ""
 interests:
-- Public administation and Leadership
-- Statistics, Machine Learning and Data Science
-- Teaching and Social Innovation
+- Public administation and leadership
+- Organizational cooperation and social innovation
+- Computational cognitive science
+- Statistics, machine learning and data science
+- Teaching and mentoring
 name: Anders Grøn
 organizations:
 - name: Aarhus University
