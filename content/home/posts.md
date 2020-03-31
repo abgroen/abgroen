@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Blog"
-subtitle = """Four series: day in the life, stop.the.talking!, cause&predict, and know/go/show. 
+subtitle = """Four series: cause&predict, day in the life, know/go/show, and stop.talking!. 
 
 Expect raw, unfiltered, and rambling. This is a place for me to refine my thinking and writing. You are welcome for the ride."""
 
