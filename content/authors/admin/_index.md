@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include public administration, data science, and social innovation.
+bio: My research interests include public administation, data science, and social innovation.
 education:
   courses:
   - course: PhD in Political Science
@@ -15,7 +15,7 @@ education:
     year: 2017
 email: ""
 interests:
-- Public administration and leadership
+- Public administation and leadership
 - Organizational cooperation and social innovation
 - Computational cognitive science
 - Statistics, machine learning and data science
