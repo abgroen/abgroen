@@ -140,7 +140,7 @@ address_format = "de"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "c", show_logo = false}
+main_menu = {align = "c", show_logo = true}
 logo = "logo.png"
 
 # Show estimated reading time for posts? (true/false)
