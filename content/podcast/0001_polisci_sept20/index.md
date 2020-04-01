@@ -26,7 +26,6 @@ title: "polisci [ep.1]: Talk with X"
   <source src="test.mp3" type="audio/mp3">
 </audio></center></html>
 
-<a class="spreaker-player" href="https://www.spreaker.com/show/her-gaar-det-godt" data-resource="show_id=2093919" data-theme="light" data-autoplay="false" data-playlist="show" data-cover="https://d1bm3dmew779uf.cloudfront.net/cover/f1eb95fb1786953beafe3431f8cdf975.jpg" data-width="100%" data-height="400px">Listen to "Her Går Det Godt" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
 
