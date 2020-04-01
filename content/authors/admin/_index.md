@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include public administation, data science, and social innovation.
+bio: My research interests include public administration, data science, and social innovation.
 education:
   courses:
   - course: PhD in Political Science
@@ -15,7 +15,7 @@ education:
     year: 2017
 email: ""
 interests:
-- Public administation and leadership
+- Public administration and leadership
 - Organizational cooperation and social innovation
 - Computational cognitive science
 - Statistics, machine learning and data science
@@ -47,9 +47,9 @@ user_groups:
 - Visitors
 ---
 
-My name is Anders. I'm an avid runner, decent cook, and fast-balding young professional. You've arrived at my personal website where I share all sorts of insights and thoughts in medias res. I cover my personal and academic background, compile blog posts and podcasts related to e.g. data science and life as a PhD student, and share my personal and professional data-driven projects and publications. 
+My name is Anders. I'm an avid runner, decent cook, and fast-balding young professional. You've arrived at my personal website where I share all sorts of insights and thoughts in medias res. I cover my personal and academic background, compile blog posts and podcasts related to e.g. data science and life as a PhD student, and share my personal and professional data-driven projects and publications.
 
-I've been offered a PhD scholarship beginning Sept. 2020 at Aarhus University which is the same place I got my BSc and MSc degrees in Political Science between 2014 and 2019. My project will focus on collaborative public leadership and I'll be affiliated with the <a href = "https://ps.au.dk/en/crown-prince-frederik-center-for-public-leadership/" rel ="follow"><strong>Crown Prince Frederik Center for Public Leadership</strong></a>. My main supervisor will be <a href = "https://pure.au.dk/portal/da/persons/christian-boetcher-jacobsen(fd9dea84-2af2-4d41-89ac-117e13f5324c).html" rel ="follow"><strong>Christian Bøtcher Jacobsen</strong></a> who serves as the center's vice director.
+I've been offered a PhD scholarship beginning Sept. 2020 at Aarhus University which is the same place I got my BSc and MSc degrees in Political Science between 2014 and 2019. My PhD project will focus on collaborative leadership and I'll be affiliated with the <a href = "https://ps.au.dk/en/crown-prince-frederik-center-for-public-leadership/" rel ="follow"><strong>Crown Prince Frederik Center for Public Leadership</strong></a>. My main supervisor will be <a href = "https://pure.au.dk/portal/da/persons/christian-boetcher-jacobsen(fd9dea84-2af2-4d41-89ac-117e13f5324c).html" rel ="follow"><strong>Christian Bøtcher Jacobsen</strong></a> who serves as the center's vice director.
 
 My research interests include public leadership and performance, social innovation, organizational coordination, and data scientific methods. I'm enthusiastic about using methods from modern statistics and data visualization to extract meaningful patterns from intertwined, unstructured datasets. As such, it's my passion to tell stories through complex data as well as illuminate omnipresent, ever-changing challenges within the public, civic, and social realms of society.
 
