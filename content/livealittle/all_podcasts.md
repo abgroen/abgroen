@@ -40,7 +40,7 @@ subtitle = "Catalogue and embedded player. Enjoy!"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "50px", "20px", "50px"]
+  padding = ["20px", "500px", "20px", "500px"]
 
 [advanced]
  # Custom CSS. 
