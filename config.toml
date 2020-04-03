@@ -23,8 +23,7 @@ copyright = "Copyright `{year}`. All rights reserved."
 theme = "hugo-academic"
 
 [permalinks]
-    post = "/:year/:month/:slug"
-
+    posts = "/:year/:month/:slug"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
