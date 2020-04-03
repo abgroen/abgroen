@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+Expect interviews and talks with fellow academics and other interesting people.
+
 Welcome to the **personal demo** of Academic. Other demos available include:
 
 - [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)

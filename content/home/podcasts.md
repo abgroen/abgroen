@@ -8,9 +8,9 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "PODCAST"
-subtitle = """Two series: live.a.little and polisci. 
+subtitle = """Here you'll find the latest podcast episodes.
 
-Expect interviews and talks with fellow academics and other interesting people."""
+Find all podcasts at [this page](/livealittle/)."""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
