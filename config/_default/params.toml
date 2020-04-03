@@ -27,6 +27,7 @@ font_size = "S"
 [permalinks]
     post = "/:year/:month/:slug"
 
+
 ############################
 ## Basic Info
 ############################
