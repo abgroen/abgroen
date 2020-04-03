@@ -24,10 +24,6 @@ font = "rose"
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "S"
 
-[permalinks]
-    post = "/:year/:month/:slug"
-
-
 ############################
 ## Basic Info
 ############################
