@@ -22,9 +22,6 @@ copyright = "Copyright `{year}`. All rights reserved."
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
-[permalinks]
-    posts = "/:year/:month/:slug/"
-
 # Get last modified date for content from Git?
 enableGitInfo = false
 
