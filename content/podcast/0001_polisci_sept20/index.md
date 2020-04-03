@@ -18,6 +18,7 @@ summary: Interview with ....
 tags:
 - Academic
 title: "polisci [ep.1]: Talk with X"
+slug: '2020-03-20/talk-with-x'
 ---
 
 <html>

@@ -18,6 +18,7 @@ summary: Talking to ...
 tags:
 - Academic
 title: "live.a.little [ep.1]: Talk with Y"
+slug: '2020-03-20/talk-with-y'
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
