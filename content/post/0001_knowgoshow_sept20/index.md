@@ -6,6 +6,7 @@ image:
   placement: 3
 math: true 
 title: "know/go/show [ep.1]: Leadership and a Crown Prince"
+slug: '2020-03-20/leadership-and-a-crown-prince'
 ---
 
 This will become the first blog-post in the know/go/show series where I delve into the leadership literature and why I think it is one of the most exiciting areas for social sciences in the future. Futhermore, I hope to provide a glance into the work at CPL.

@@ -6,6 +6,7 @@ image:
   placement: 3
 math: true 
 title: "day in the life [ep.1]: Back to Aarhus"
+slug: '2020-03-20/back-to-aarhus'
 ---
 
 This will become the first blog-post in the day in the life series where I set out to answer: who am I - where - and why? Follow my journey.
