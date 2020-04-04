@@ -13,43 +13,28 @@ subtitle    = ""
 [design]
   columns   = "1"       # Choose how many columns the section has. Valid values: 1 or 2.
 
-
 [design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-
-  # Text color (true=light or false=dark).
-  # text_color_light = false
+  # color             = "navy"                                # Background color. 
+  # gradient_start    = "DeepSkyBlue"                         # Background gradient.
+  # gradient_end      = "SkyBlue"                             # Background gradient.
+  # image             = "headers/bubbles-wide.jpg"            # Name of image in `static/img/`.
+  # image_darken      = 0.6                                   # Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size        = "cover"                               # Options are `cover` (default), `contain`, or `actual` size.
+  # image_position    = "center"                              # Options include `left`, `center` (default), or `right`.
+  # image_parallax    = true                                  # Use a fun parallax-like fixed background effect? true/false
+  # text_color_light  = false                                 # Text color (true=light or false=dark).
 
 [design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "360px", "20px", "360px"]
+  padding             = ["20px", "360px", "20px", "360px"]    # Order: top, right, bottom, left.
 
 [advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+ css_style            = ""                                    # Custom CSS. 
+ css_class            = ""                                    # CSS class.
 +++
 
 Expect interviews and talks with fellow academics and other interesting people.
+
+<hr>
 
 <a class="spreaker-player" href="https://www.spreaker.com/show/live-a-little" data-resource="episode_id=24789146" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "live.a.little" on Spreaker. <script async src="https://widget.spreaker.com/widgets.js"></script></a>
 
