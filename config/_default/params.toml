@@ -7,110 +7,57 @@
 
 ## CONTENT
 ## Theme
-# Choose a theme (browse user themes in `data/themes/`)
-theme = "forest"
-# Enable users to switch between day and night mode?
-day_night = true
-# Override the theme's font set (browse built-in font sets in `themes/academic/data/fonts/`).
-font = "rose" 
-# Choose a font size (XS, S, M, L, XL)
-font_size = "S"
+theme = "forest"    # Choose a theme (browse user themes in `data/themes/`)
+day_night = true    # Enable users to switch between day and night mode?
+font = "rose"       # Override the theme's font set (browse built-in font sets in `themes/academic/data/fonts/`).
+font_size = "S"     # Choose a font size (XS, S, M, L, XL)
+
 
 ## Basic Info
-# Website type (how search engines understand your site, choose from https://schema.org/Organization#subtypes)
-site_type = "Person"
-# Local business type (choose the type of business from https://schema.org/LocalBusiness#subtypes)
-local_business_type = ""
-# Organization name (defaults to the site title from `config.toml`)
-org_name = ""
-# Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
-
+site_type = "Person"        # Website type (SEO, see https://schema.org/Organization#subtypes)
+local_business_type = ""    # Local business type (choose from https://schema.org/LocalBusiness#subtypes)
+org_name = ""               # Organization name (defaults to the site title from `config.toml`)
+description = ""            # Description for social sharing and search engines. If undefined, superuser role is used in place.
 
 ## Site Features
 # Enable source code highlighting? true/false (see https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options)
 highlight = true
 highlight_languages = ["r"]     # Add support for highlighting additional languages
 highlight_style = "github"      # For supported styles, see https://cdnjs.com/libraries/highlight.js/
-
 # Enable LaTeX math rendering? true/false
-#   If false, you can enable math on a per page basis as needed.
 math = true
-
 # Enable diagram rendering? true/false
-#   If false, you can enable diagrams on a per page basis as needed.
 diagram = true
-
-# Privacy pack
-#   Show a cookie consent message to visitors
-#   Anonymize IP in Google Analytics (if enabled)
+# Privacy pack (show a cookie consent message to visitors; anonymize IP in Google Analytics (if enabled))
 privacy_pack = false
-
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 # edit_page = {repo_url = "https://github.com/abgroen/blog-site", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
-############################
-## Contact details
-##
-## These details power the Contact widget (if enabled).
-## Additionally, for organizations, these details may be used to enrich search engine results.
-############################
-
-# Enter contact details (optional). To hide a field, clear it to "".
+## Contact details (to hide a field, clear it to "")
 email = "anders.barslund.green@gmail.com"
 phone = "+45 61 28 32 10"
-
-# Address
-# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bartholins Allé 7", city = "Aarhus C", region = "", postcode = "8000", country = "Denmark", country_code = "DK"}
-
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "56.170014", longitude = "10.203253"}
-
-# Directions for visitors to locate you.
-directions = "Enter Building 13XX - we'll see!"
-
-# Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
-
-# Contact links
-#   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
+address = {street = "Bartholins Allé 7", city = "Aarhus C", region = "", postcode = "8000", country = "Denmark", country_code = "DK"}    # use ISO-two letter code
+coordinates = {latitude = "56.170014", longitude = "10.203253"}  # right-click on Google Maps and choose "What's here?"
+directions = "Enter Building 13XX - we'll see!" # Directions for visitors to locate you
+office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"] # To remove, set to an empty list `[]`
+appointment_url = ""     # Enter an optional link for booking appointments (e.g. calendly.com).
 contact_links = [
-  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:anders.barslund.green"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
-############################
 ## Social
-############################
+sharing_image = ""     # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+twitter = ""    # Twitter username (without @). Used when a visitor shares your site on Twitter.
 
-# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
-
-# Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
-
-############################
-## Regional Settings
-############################
-
-# Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
-#   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
-
-# Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "de"
+## Regional Settings (date and time refer to https://sourcethemes.com/academic/docs/customization/#date-format)
+date_format = "Jan 2, 2006"   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+time_format = "15:04"         #   Examples: "3:04 pm" or "15:04"
+address_format = "de"         # choose from the [address_formats] list 
 
 ############################
 ## Advanced
