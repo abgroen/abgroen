@@ -19,7 +19,7 @@ org_name              = ""              # Organization name (defaults to the sit
 description           = ""              # Description for social sharing and search engines. If undefined, superuser role is used in place.
 
 ## Site Features
-highlight = true 
+highlight = true
 highlight_languages   = ["r"]         # Add support for highlighting additional languages
 highlight_style       = "github"      # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 math                  = true          # Enable LaTeX math rendering? true/false
