@@ -84,7 +84,7 @@ plugins_js          = []                                  # Load JS plugins. E.g
 
 ## Comments 
 [comments]
-  engine      = 0                                                  # 0: Disabled, 1: Disqus (https://disqus.com), 2: Commento (https://commento.io)
+  engine      = 0           # 0: Disabled, 1: Disqus (https://disqus.com), 2: Commento (https://commento.io)
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}        # Which page types are commentable?
   [comments.disqus]         
     shortname     = ""      # Paste the shortname from your Disqus dashboard.
@@ -92,49 +92,27 @@ plugins_js          = []                                  # Load JS plugins. E.g
   [comments.commento]
     url = ""                # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
 
-############################
 ## Search
-############################
 [search]
-  # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
-
-  # Configuration of Algolia search engine.
-  # Paste the values from your Algolia dashboard.
+  engine = 1            # Search provider: 0: No search engine, 1: Academic (built-in), 2: Algolia (https://www.algolia.com)
   [search.algolia]
-    app_id = ""
+    app_id = ""         # Paste the values from your Algolia dashboard.
     api_key = ""
     index_name = ""
     show_logo = false
 
-############################
 ## Maps
-############################
 [map]
-  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
-  # and choose a map provider below.
-  #
-  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
-  #   https://developers.google.com/maps/documentation/javascript/get-api-key
-  # To use OpenStreetMap tiles, set `engine` to 2.
-  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
-  #   https://www.mapbox.com/studio/account/tokens
-  #
   # Map provider:
   #   0: No map
-  #   1: Google Maps
+  #   1: Google Maps: engine = 1, API: https://developers.google.com/maps/documentation/javascript/get-api-key
   #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
+  #   3: OpenStreetMap (Mapbox): engine = 3, API: https://www.mapbox.com/studio/account/tokens
   engine = 2
   api_key = ""
   zoom = 15
 
-############################
 ## Marketing
-############################
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
