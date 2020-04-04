@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "a heartfelt welcome!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-#hero_media = "hero-academic.png"
+# hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -48,7 +48,7 @@ title = "a heartfelt welcome!"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'life, blogs, podcasts, projects, data science, polisci'
+  label = 'life, phd, blogs, podcasts, projects, data science, polisci'
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
