@@ -10,7 +10,7 @@ weight = 40  # Order that this section will appear.
 title = "PODCAST: live.a.little"
 subtitle = """Here you'll find the latest podcast episodes.
 
-Find all podcasts at [this page](/livealittle/)."""
+Find all podcasts at <strong>[this page](/livealittle/)</strong>."""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
