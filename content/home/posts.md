@@ -7,7 +7,7 @@ weight                 = 30                # Order that this section will appear
 title                  = "BLOG"
 subtitle               = """Four series: cause&predict, day in the life, know/go/show, and stop.talking!. 
 
-                         Expect raw, unfiltered, and rambling. This is a place for me to refine my thinking and writing. You are welcome for the ride."""
+Expect raw, unfiltered, and rambling. This is a place for me to refine my thinking and writing. You are welcome for the ride."""
 
 [content]
   page_type            = "post"            # Page type to display. E.g. post, talk, or publication.
