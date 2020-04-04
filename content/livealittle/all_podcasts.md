@@ -1,17 +1,17 @@
 +++
 # PAGE SETUP
-widget      = "blank"   # See https://sourcethemes.com/academic/docs/page-builder/
-headless    = true      # This file represents a page section.
-active      = true      # Activate this widget? true/false
-weight      = 15        # Order that this section will appear.
+widget                = "blank"                               # See https://sourcethemes.com/academic/docs/page-builder/
+headless              = true                                  # This file represents a page section.
+active                = true                                  # Activate this widget? true/false
+weight                = 15                                    # Order that this section will appear.
 
 # TITLE
-title       = "Podcast: live.a.little"
-subtitle    = ""
+title                 = "Podcast: live.a.little"
+subtitle              = ""
 
 # DESIGN
 [design]
-  columns   = "1"       # Choose how many columns the section has. Valid values: 1 or 2.
+  columns             = "1"                                   # Choose how many columns the section has. Valid values: 1 or 2.
 
 [design.background]
   # color             = "navy"                                # Background color. 
@@ -34,20 +34,13 @@ subtitle    = ""
 
 <hr>
 
-Expect interviews and talks with fellow academics and other interesting people.
-
 <a class="spreaker-player" href="https://www.spreaker.com/show/live-a-little" data-resource="episode_id=24789146" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "live.a.little" on Spreaker. <script async src="https://widget.spreaker.com/widgets.js"></script></a>
 
-Welcome to the **personal demo** of Academic. Other demos available include:
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+**live.a.little** is my podcast. It is meant as a dual-purpose universe where I delve into a wide range of topics related to life in academia and life in general. Expect interviews and talks with fellow academics and other interesting people. I hope you'll find something to enjoy - and please, reach out if you have any ideas for me to consider.
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+To date, I have discussed the following:
+- X
+- Y
+- Z
