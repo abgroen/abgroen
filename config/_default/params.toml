@@ -7,10 +7,10 @@
 
 ## CONTENT
 ## Theme
-theme = "forest"    # Choose a theme (browse user themes in `data/themes/`)
-day_night = true    # Enable users to switch between day and night mode?
-font = "rose"       # Override the theme's font set (browse built-in font sets in `themes/academic/data/fonts/`).
-font_size = "S"     # Choose a font size (XS, S, M, L, XL)
+theme = "forest"         # Choose a theme (browse user themes in `data/themes/`)
+day_night = true         # Enable users to switch between day and night mode?
+font = "rose"            # Override the theme's font set (browse built-in font sets in `themes/academic/data/fonts/`).
+font_size = "S"          # Choose a font size (XS, S, M, L, XL)
 
 ## Basic Info
 site_type = "Person"        # Website type (SEO, see https://schema.org/Organization#subtypes)
@@ -19,19 +19,13 @@ org_name = ""               # Organization name (defaults to the site title from
 description = ""            # Description for social sharing and search engines. If undefined, superuser role is used in place.
 
 ## Site Features
-# Enable source code highlighting? true/false (see https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options)
-highlight = true
+highlight = true 
 highlight_languages = ["r"]     # Add support for highlighting additional languages
 highlight_style = "github"      # For supported styles, see https://cdnjs.com/libraries/highlight.js/
-# Enable LaTeX math rendering? true/false
-math = true
-# Enable diagram rendering? true/false
-diagram = true
-# Privacy pack (show a cookie consent message to visitors; anonymize IP in Google Analytics (if enabled))
-privacy_pack = false
-# Enable visitors to edit pages?
-#   `repo` defines the repository URL. `editable` defines which page types can be edited.
-# edit_page = {repo_url = "https://github.com/abgroen/blog-site", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
+math = true                     # Enable LaTeX math rendering? true/false
+diagram = true                  # Enable diagram rendering? true/false
+privacy_pack = false            # Privacy pack (show a cookie consent message to visitors)
+# edit_page = {repo_url = "https://github.com/abgroen/blog-site", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}} # Enable visitors to edit pages? `repo` defines the repository URL. `editable` defines which page types can be edited.
 
 ## Contact details (to hide a field, clear it to "")
 email = "anders.barslund.green@gmail.com"
@@ -50,36 +44,22 @@ contact_links = [
   ]
 
 ## Social
-sharing_image = ""     # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-twitter = ""    # Twitter username (without @). Used when a visitor shares your site on Twitter.
+sharing_image = ""      # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+twitter = ""            # Twitter username (without @). Used when a visitor shares your site on Twitter.
 
 ## Regional Settings (date and time refer to https://sourcethemes.com/academic/docs/customization/#date-format)
 date_format = "Jan 2, 2006"   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 time_format = "15:04"         #   Examples: "3:04 pm" or "15:04"
 address_format = "de"         # choose from the [address_formats] list 
 
-############################
 ## Advanced
-############################
-
-# Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "c", show_logo = false}
-
-# Show estimated reading time for posts? (true/false)
-reading_time = true
-
-# Display next/previous section pager? (true/false)
-section_pager = false
-docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
-
-# Enable in-built social sharing buttons? (true/false)
-sharing = true
-
-# Link authors to their profile page? (true/false)
-link_authors = true
-
-# Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
-abstract_length = 135
+main_menu = {align = "c", show_logo = false}  # l = left, c = center, r = right and logo options.
+reading_time = true                           # Show estimated reading time for posts? (true/false)
+section_pager = false                         # Display next/previous section pager? (true/false)
+docs_section_pager = true                     # Display pager in Docs layout (e.g. tutorials)?
+sharing = true                                # Enable in-built social sharing buttons? (true/false)
+link_authors = true                           # Link authors to their profile page? (true/false)
+abstract_length = 135                         # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
@@ -105,21 +85,13 @@ plugins_js  = []
 
 # Configuration of publication pages.
 [publications]
-  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "January 2006"          # refer to https://sourcethemes.com/academic/docs/customization/#date-format, examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  citation_style = "apa"                # Citation style ("apa" or "mla")
 
-  # Citation style ("apa" or "mla")
-  citation_style = "apa"
 
 # Configuration of project pages.
 [projects]
-  # Views for associated content.
-  #   1: List
-  #   2: Compact
-  #   3: Card
-  #   4: Citation (publications only)
-  post_view = 2
+  post_view = 2         #   1: List, 2: Compact, 3: Card, 4: Citation (publications only)
   publication_view = 2
   talk_view = 2
 
