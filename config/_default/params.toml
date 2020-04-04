@@ -24,7 +24,7 @@ highlight_languages   = ["r"]            # Add support for highlighting addition
 highlight_style       = "github"         # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 math                  = true             # Enable LaTeX math rendering? true/false
 diagram               = true             # Enable diagram rendering? true/false
-privacy_pack          = false            # Privacy pack (show a cookie consent message to visitors)
+privacy_pack          = true             # Privacy pack (show a cookie consent message to visitors)
 # edit_page = {repo_url = "https://github.com/abgroen/blog-site", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}} # Enable visitors to edit pages? `repo` defines the repository URL. `editable` defines which page types can be edited.
 
 ## Contact details (to hide a field, clear it to "")
