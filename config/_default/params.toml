@@ -1,60 +1,37 @@
-# SITE SETUP
-# Documentation: https://sourcethemes.com/academic/
-
+###########################
+## SITE SETUP (documentation: https://sourcethemes.com/academic/)
 ############################
+
+# HOW TO
+  # Alter theme, night-mode, font, etc.
+
+## CONTENT
 ## Theme
-############################
-
-# Choose a theme.
-#   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in themes in `themes/academic/data/themes/`
-#   Browse user installed themes in `data/themes/`
+# Choose a theme (browse user themes in `data/themes/`)
 theme = "forest"
-
 # Enable users to switch between day and night mode?
 day_night = true
-
-# Override the theme's font set (optional).
-#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in font sets in `themes/academic/data/fonts/`
-#   Browse user installed font sets in `data/fonts/`
+# Override the theme's font set (browse built-in font sets in `themes/academic/data/fonts/`).
 font = "rose" 
- 
-# Choose a font size.
-# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+# Choose a font size (XS, S, M, L, XL)
 font_size = "S"
 
-############################
 ## Basic Info
-############################
-
-# Website type
-#   Improve how search engines understand your site.
-#   For personal sites, choose "Person".
-#   For organizations and projects, choose from https://schema.org/Organization#subtypes
-#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+# Website type (how search engines understand your site, choose from https://schema.org/Organization#subtypes)
 site_type = "Person"
-
-# Local business type (optional)
-# If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
+# Local business type (choose the type of business from https://schema.org/LocalBusiness#subtypes)
 local_business_type = ""
-
-# Organization name (optional)
-# Enter an organization or project name. Defaults to the site title from `config.toml`.
+# Organization name (defaults to the site title from `config.toml`)
 org_name = ""
-
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
-############################
-## Site Features
-############################
 
-# Enable source code highlighting? true/false
-# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
+## Site Features
+# Enable source code highlighting? true/false (see https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options)
 highlight = true
-highlight_languages = ["r"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+highlight_languages = ["r"]     # Add support for highlighting additional languages
+highlight_style = "github"      # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
