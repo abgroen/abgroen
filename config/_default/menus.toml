@@ -42,6 +42,11 @@
   url = "#contact"
   weight = 7
 
+ [[main]]
+  name = "GALLERY"
+  url = "#gallery"
+  weight = 8 
+
 ## Excess
 # #[[main]]
 #  name = "PUBLICATIONS"
