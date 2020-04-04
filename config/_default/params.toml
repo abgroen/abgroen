@@ -30,7 +30,7 @@ privacy_pack          = false            # Privacy pack (show a cookie consent m
 ## Contact details (to hide a field, clear it to "")
 email                 = "anders.barslund.green@gmail.com"
 phone                 = "+45 61 28 32 10"
-address               = {street = "Bartholins Allé 7", city = "Aarhus C", region = "", postcode = "8000", country = "Denmark", country_code = "DK"}    # use ISO-two letter code
+address               = {street = "Bartholins Allé 7", city = "Aarhus C", region = "", postcode = "8000", country = "Denmark", country_code = "DK"}    # ISO-codes
 coordinates           = {latitude = "56.170014", longitude = "10.203253"}                 # right-click on Google Maps and choose "What's here?"
 directions            = "Enter Building 13XX - we'll see!"                                # Directions for visitors to locate you
 office_hours          = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]             # To remove, set to an empty list `[]`

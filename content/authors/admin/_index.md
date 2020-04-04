@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- Anders Grøn
 bio: My research interests include public administration, data science, and social innovation.
 education:
   courses:
