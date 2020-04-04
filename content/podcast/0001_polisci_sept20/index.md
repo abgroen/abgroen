@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- Demo
+- Podcast
 date: "2020-03-20T00:00:00Z"
 draft: false
 featured: false
@@ -17,6 +17,7 @@ subtitle: 'Interview with ...'
 summary: Interview with ....
 tags:
 - Academic
+slides: false
 title: "polisci [ep.1]: Talk with X"
 slug: '2020-03-20/talk-with-x'
 ---

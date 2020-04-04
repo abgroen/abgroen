@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- Demo
+- Podcast
 date: "2020-03-20T00:00:00Z"
 draft: false
 featured: false
