@@ -12,7 +12,6 @@ day_night = true    # Enable users to switch between day and night mode?
 font = "rose"       # Override the theme's font set (browse built-in font sets in `themes/academic/data/fonts/`).
 font_size = "S"     # Choose a font size (XS, S, M, L, XL)
 
-
 ## Basic Info
 site_type = "Person"        # Website type (SEO, see https://schema.org/Organization#subtypes)
 local_business_type = ""    # Local business type (choose from https://schema.org/LocalBusiness#subtypes)
