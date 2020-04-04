@@ -7,34 +7,34 @@
 
 ## CONTENT
 ## Theme
-theme                 = "forest"        # Choose a theme (browse user themes in `data/themes/`)
+theme                 = "forest"        # Choose a theme (browse themes in `data/themes/`)
 day_night             = true            # Enable users to switch between day and night mode?
-font                  = "rose"          # Override the theme's font set (browse built-in font sets in `themes/academic/data/fonts/`).
+font                  = "rose"          # Browse font sets in `themes/academic/data/fonts/`.
 font_size             = "S"             # Choose a font size (XS, S, M, L, XL)
 
 ## Basic Info
 site_type             = "Person"        # Website type (SEO, see https://schema.org/Organization#subtypes)
 local_business_type   = ""              # Local business type (choose from https://schema.org/LocalBusiness#subtypes)
 org_name              = ""              # Organization name (defaults to the site title from `config.toml`)
-description           = ""              # Description for social sharing and search engines. If undefined, superuser role is used in place.
+description           = ""              # Description for social sharing and search engines.
 
 ## Site Features
 highlight = true
 highlight_languages   = ["r"]            # Add support for highlighting additional languages
-highlight_style       = "github"         # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+highlight_style       = "github"         # For styles, see https://cdnjs.com/libraries/highlight.js/
 math                  = true             # Enable LaTeX math rendering? true/false
 diagram               = true             # Enable diagram rendering? true/false
-privacy_pack          = true             # Privacy pack (show a cookie consent message to visitors)
+privacy_pack          = true             # Privacy pack (show a cookie consent message)
 # edit_page = {repo_url = "https://github.com/abgroen/blog-site", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}} # Enable visitors to edit pages? `repo` defines the repository URL. `editable` defines which page types can be edited.
 
 ## Contact details (to hide a field, clear it to "")
 email                 = "anders.barslund.green@gmail.com"
 phone                 = "+45 61 28 32 10"
 address               = {street = "Bartholins Allé 7", city = "Aarhus C", region = "", postcode = "8000", country = "Denmark", country_code = "DK"}    # ISO-codes
-coordinates           = {latitude = "56.170014", longitude = "10.203253"}                 # right-click on Google Maps and choose "What's here?"
+coordinates           = {latitude = "56.170014", longitude = "10.203253"}                 # right-click Maps, choose "What's here?"
 directions            = "Enter Building 13XX - we'll see!"                                # Directions for visitors to locate you
 office_hours          = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]             # To remove, set to an empty list `[]`
-appointment_url       = ""                                                                # Enter an optional link for booking appointments (e.g. calendly.com).
+appointment_url       = ""                                                                # Enter a link for e.g. calendly.com.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:anders.barslund.green"},
@@ -44,13 +44,13 @@ contact_links = [
   ]
 
 ## Social
-sharing_image       = ""                # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-twitter             = ""                # Twitter username (without @). Used when a visitor shares your site on Twitter.
+sharing_image       = ""                # Image for social sharing, search engines in `static/img/`. Specify image name.
+twitter             = ""                # Twitter username (without @).
 
 ## Regional Settings (date and time refer to https://sourcethemes.com/academic/docs/customization/#date-format)
 date_format         = "Jan 2, 2006"     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 time_format         = "15:04"           #   Examples: "3:04 pm" or "15:04"
-address_format      = "de"              #   choose from the [address_formats] list 
+address_format      = "de"              #   choose from the [address_formats] list
 
 ## Advanced
 main_menu           = {align = "c", show_logo = false}    # l = left, c = center, r = right and logo options.
@@ -59,7 +59,7 @@ section_pager       = false                               # Display next/previou
 docs_section_pager  = true                                # Display pager in Docs layout (e.g. tutorials)?
 sharing             = true                                # Enable in-built social sharing buttons? (true/false)
 link_authors        = true                                # Link authors to their profile page? (true/false)
-abstract_length     = 135                                 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
+abstract_length     = 135                                 # Abstract length in Compact, Portfolio. See `summaryLength` in `config.toml`.
 plugins_js          = []                                  # Load JS plugins. E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 # Avatars: an image that appears next to a user's name.An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
@@ -74,7 +74,7 @@ plugins_js          = []                                  # Load JS plugins. E.g
   zh    = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
 # Configuration of publication pages.
 [publications]
-  date_format       = "January 2006"          # refer to https://sourcethemes.com/academic/docs/customization/#date-format, examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format       = "January 2006"          # examples: "Mon, Jan 2, 2006" or "2006-01-02"
   citation_style    = "apa"                   # Citation style ("apa" or "mla")
 # Configuration of project pages.
 [projects]
@@ -85,7 +85,7 @@ plugins_js          = []                                  # Load JS plugins. E.g
 ## Comments 
 [comments]
   engine            = 0         # 0: Disabled, 1: Disqus (https://disqus.com), 2: Commento (https://commento.io)
-  commentable       = {page = true, post = true, docs = true, project = true, publication = true, talk = true}        # Which page types are commentable?
+  commentable       = {page = true, post = true, docs = true, project = true, publication = true, talk = true}       
   [comments.disqus]
     shortname       = ""        # Paste the shortname from your Disqus dashboard.
     show_count      = true      # Show comment count in page header? (true/false)
