@@ -42,26 +42,26 @@
   url = "#contact"
   weight = 7
 
- [[main]]
-  name = "GALLERY"
-  url = "#gallery"
-  weight = 8 
-
 ## Excess
-# #[[main]]
+# [[main]]
 #  name = "PUBLICATIONS"
 #  url = "#publications"
 # weight = X
 
-# #[[main]]
+# [[main]]
 #  name = "COURSES"
 #  url = "courses/"
 #  weight = X
 
-# #[[main]]
+# [[main]]
 #  name = "ACCOMPLISHMENTS"
 #  url = "#accomplishments"
 #  weight = X
+
+# [[main]]
+#  name = "GALLERY"
+#  url = "#gallery"
+#  weight = 8 
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
