@@ -1,7 +1,7 @@
 ---
 authors:
 - Anders Grøn
-bio: My research interests include public administration, data science, and social innovation.
+bio: PhD Fellow interested in public administration, leadership, data science, and social innovation.
 education:
   courses:
   - course: PhD in Political Science
