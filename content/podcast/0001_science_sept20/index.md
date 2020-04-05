@@ -7,20 +7,26 @@ date: "2020-03-20T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: **Jason Rosewell on Unsplash**'
+  caption: 'Image credit: **Paweł Czerwiński on Unsplash**'
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-03-20T00:00:00Z"
+lastmod: "2020-03-27T00:00:00Z"
 projects: []
-subtitle: 'Talking to ...'
-summary: Talking to ... 
+subtitle: 'Interview with ...'
+summary: Interview with ....
 tags:
 - Academic
 slides: false
-title: "live.a.little [ep.1]: Talk with Y"
-slug: '2020-03-20/talk-with-y'
+title: "science [ep.1]: Talk with X"
+slug: '2020-03-20/talk-with-x'
 ---
+
+<html>
+<center>
+<audio controls>
+  <source src="test.mp3" type="audio/mp3">
+</audio></center></html>
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
 
@@ -68,8 +74,8 @@ Academic comes with **automatic day (light) and night (dark) mode** built-in. Al
 
 ## Ecosystem
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+***[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
+***[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 
 ## Install
 
