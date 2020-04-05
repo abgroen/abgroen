@@ -19,12 +19,12 @@
 
 [[main]]
   name = "BLOG"
-  url = "#posts"
+  url = "#blog"
   weight = 3
   
 [[main]]
   name = "PODCAST"
-  url = "#podcasts"
+  url = "#podcast"
   weight = 4
 
 [[main]]
