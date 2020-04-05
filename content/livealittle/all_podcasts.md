@@ -6,7 +6,7 @@ active                = true                                  # Activate this wi
 weight                = 15                                    # Order that this section will appear.
 
 # TITLE
-title                 = "Podcast: live.a.little"
+title                 = **"Podcast: live.a.little"**
 subtitle              = ""
 
 # DESIGN
