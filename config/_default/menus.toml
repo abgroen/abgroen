@@ -9,7 +9,7 @@
 ## Navigation panel
 [[main]]
   name = ""
-  url = "#hero"
+  url = "#banner"
   weight = 1
 
 [[main]]

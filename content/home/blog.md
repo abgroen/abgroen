@@ -10,7 +10,7 @@ subtitle               = """Four series: cause&predict, day in the life, know/go
 Expect raw, unfiltered, and rambling. This is a place for me to refine my thinking and writing. You are welcome for the ride."""
 
 [content]
-  page_type            = "post"            # Page type to display. E.g. post, talk, or publication.
+  page_type            = "blog"            # Page type to display. E.g. post, talk, or publication.
   count                = 0                 # Choose how much pages you would like to display (0 = all pages)
   offset               = 0                 # Choose how many pages you would like to offset by
   order                = "desc"            # Page order. Descending (desc) or ascending (asc) date.
