@@ -4,7 +4,7 @@ widget              = "experience"                         # See https://sourcet
 headless            = true                                 # This file represents a page section.
 active              = true                                 # Activate this widget? true/false
 weight              = 65                                   # Order that this section will appear.
-title               = "EXPERIENCE"
+title               = "Experience"
 subtitle            = "Check out my **[CV](/files/cv.pdf)** for fuller descriptions."
 date_format         = "Jan 2006"                           # Date format
 
