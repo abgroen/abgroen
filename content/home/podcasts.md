@@ -6,9 +6,9 @@ active                = true              # Activate this widget? true/false
 weight                = 40                # Order that this section will appear.
 
 title = "PODCAST: live.a.little"
-subtitle              = """Here you'll find the latest podcast episodes.
+subtitle              = """The podcast is called live.a.little and here you'll find the latest podcast episodes. I have two series: meaning and science.
 
-Find all podcasts at <strong>[this page](/livealittle/)</strong>."""
+Find all podcasts at <strong>[this page](/livealittle/)</strong> as well as a description of the different series."""
 
 [content]
   page_type           = "podcast"         # Page type to display. E.g. post, talk, or publication.
