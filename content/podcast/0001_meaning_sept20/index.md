@@ -17,7 +17,7 @@ subtitle: 'Talking to ...'
 summary: Talking to ... 
 tags:
 - Academic
-slides: false
+slides: example
 title: "meaning [ep.1]: Talk with Y"
 slug: '2020-03-20/talk-with-y'
 ---
