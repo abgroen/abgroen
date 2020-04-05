@@ -6,7 +6,7 @@ active                = true              # Activate this widget? true/false
 weight                = 40                # Order that this section will appear.
 
 title = "Podcast: live.a.little"
-subtitle              = """The podcast is called live.a.little and here you'll find the latest podcast episodes. I have two series: meaning and science.
+subtitle              = """The podcast is called live.a.little and here you'll find the latest episodes. I have two series: meaning and science.
 
 Find all podcasts at <strong>[this page](/livealittle/)</strong> as well as a description of the different series."""
 
