@@ -5,10 +5,10 @@ headless              = true              # This file represents a page section.
 active                = true              # Activate this widget? true/false
 weight                = 40                # Order that this section will appear.
 
-title = "Podcast: Presumably"
-subtitle              = """The podcast is called Presumably and here you'll find the latest episodes. I have two series: meaning and science.
+title = "Podcast"
+subtitle              = """The podcast is called **Just One Condition** and here you'll find the latest episodes.
 
-Find all podcasts at <strong>[this page](/presumably/)</strong> as well as a description of the different series."""
+Find all podcasts at <strong>[this page](/justonecondition/)</strong> as well as a description of the different series: meaning and science. """
 
 [content]
   page_type           = "podcast"         # Page type to display. E.g. post, talk, or publication.
