@@ -8,7 +8,7 @@ weight                = 40                # Order that this section will appear.
 title = "Podcast: live.a.little"
 subtitle              = """The podcast is called live.a.little and here you'll find the latest episodes. I have two series: meaning and science.
 
-Find all podcasts at <strong>[this page](/livealittle/)</strong> as well as a description of the different series."""
+Find all podcasts at <strong>[this page](/presumably/)</strong> as well as a description of the different series."""
 
 [content]
   page_type           = "podcast"         # Page type to display. E.g. post, talk, or publication.
