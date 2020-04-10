@@ -1,10 +1,16 @@
 ---
+authors:
+- admin
+categories:
+- Blog
 date: "2020-03-20"
 diagram: true
 image:
   caption: 'Image credit: **Clark Tibbs on Unsplash**'
   placement: 3
-math: true 
+math: true
+tags:
+- Academic 
 title: "know/go/show [ep.1]: Leadership and a Crown Prince"
 slug: '2020-03-20/leadership-and-a-crown-prince'
 ---
