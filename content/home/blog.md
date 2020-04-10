@@ -5,9 +5,9 @@ headless               = true              # This file represents a page section
 active                 = true              # Activate this widget? true/false
 weight                 = 30                # Order that this section will appear.
 title                  = "Blog"
-subtitle               = """Four series: cause&predict, day in the life, know/go/show, and stop.talking!. 
+subtitle               = """Expect raw, unfiltered, and rambling. This is a place for me to refine my thinking and writing. You are welcome for the ride.
 
-Expect raw, unfiltered, and rambling. This is a place for me to refine my thinking and writing. You are welcome for the ride."""
+Four series: cause&predict, day in the life, know/go/show, and stop.talking!."""
 
 [content]
   page_type            = "blog"            # Page type to display. E.g. post, talk, or publication.

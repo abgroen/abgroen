@@ -8,7 +8,7 @@ weight                = 40                # Order that this section will appear.
 title = "Podcast"
 subtitle              = """The podcast is called **On One Condition** and here you'll find the latest episodes.
 
-Find all podcasts at <strong>[this page](/ononecondition/)</strong> as well as a description of the different series: meaning and science. """
+Find all episodes at <strong>[this page](/ononecondition/)</strong> as well as a description of the different series: meaning and science."""
 
 [content]
   page_type           = "podcast"         # Page type to display. E.g. post, talk, or publication.
