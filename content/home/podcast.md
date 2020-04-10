@@ -6,9 +6,9 @@ active                = true              # Activate this widget? true/false
 weight                = 40                # Order that this section will appear.
 
 title = "Podcast"
-subtitle              = """The podcast is called **Just One Condition** and here you'll find the latest episodes.
+subtitle              = """The podcast is called **Under One Condition** and here you'll find the latest episodes.
 
-Find all podcasts at <strong>[this page](/justonecondition/)</strong> as well as a description of the different series: meaning and science. """
+Find all podcasts at <strong>[this page](/underonecondition/)</strong> as well as a description of the different series: meaning and science. """
 
 [content]
   page_type           = "podcast"         # Page type to display. E.g. post, talk, or publication.
