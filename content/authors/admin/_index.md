@@ -47,7 +47,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Anders. I'm an avid runner, decent cook, and fast-balding young professional. You've arrived at my personal website where I share all sorts of insights and thoughts in medias res. I cover themes of both personal and academic character, compile blog posts and podcasts related to e.g. data science and life as a PhD student, and share my personal and professional data-driven projects and publications.
+My name is Anders. Welcome to my personal webstie abd PhD universe where I share all sorts of insights and thoughts in medias res. I cover themes of both personal and academic character, compile blog posts and podcasts related to e.g. data science and life as a PhD student, and share my personal and professional data-driven projects and publications.
 
 I've been offered a PhD scholarship beginning Sept. 2020 at Aarhus University which is the same place I got my BSc and MSc degrees in Political Science. My PhD project will focus on leadership and collaboration in the public sector and I'll be affiliated with the <a href = "https://ps.au.dk/en/crown-prince-frederik-center-for-public-leadership/" rel ="follow"><strong>Crown Prince Frederik Center for Public Leadership</strong></a>. My main supervisor will be <a href = "https://pure.au.dk/portal/da/persons/christian-boetcher-jacobsen(fd9dea84-2af2-4d41-89ac-117e13f5324c).html" rel ="follow"><strong>Christian Bøtcher Jacobsen</strong></a> who serves as the center's vice director.
 
