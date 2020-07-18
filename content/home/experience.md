@@ -23,7 +23,7 @@ date_format         = "Jan 2006"                           # Date format
   company_url       = ""
   location          = "Copenhagen"
   date_start        = "2018-02-01"
-  date_end          = "2020-07-01"
+  date_end          = "2020-07-15"
   description       = """
   Responsibilities include:
   * Data analysis of Danish register data
