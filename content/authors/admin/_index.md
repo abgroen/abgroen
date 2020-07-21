@@ -19,7 +19,7 @@ interests:
 - Organizational cooperation and social innovation
 - Computational cognitive science
 - Statistics, machine learning and data science
-- Teaching and mentoring
+- Teaching, mentoring, blogging, podcasting
 name: Anders Grøn
 organizations:
 - name: Aarhus University
