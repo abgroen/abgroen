@@ -17,7 +17,7 @@ email: ""
 interests:
 - Public administration and leadership
 - Organizational cooperation and social innovation
-- Computational cognitive and network science
+- Computational cognitive science
 - Statistics, machine learning and data science
 - Teaching, mentoring, blogging, podcasting
 name: Anders Grøn
