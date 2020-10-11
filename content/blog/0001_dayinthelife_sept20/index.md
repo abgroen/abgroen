@@ -6,7 +6,7 @@ image:
   placement: 3
 math: true 
 title: "day in the life [ep.1]: A warm welcome!"
-slug: '2020-03-20/back-to-aarhus'
+slug: '2020-10-11/a-warm-welcome'
 ---
 
 Welcome! 
