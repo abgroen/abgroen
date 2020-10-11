@@ -2,7 +2,7 @@
 # A Projects section.
 widget                = "portfolio"       # See https://sourcethemes.com/academic/docs/page-builder/
 headless              = true              # This file represents a page section.
-active                = true              # Activate this widget? true/false
+active                = false              # Activate this widget? true/false
 weight                = 45                # Order that this section will appear.
 title                 = "Projects"
 subtitle              = "Gallery of different projects both personal and professional."
