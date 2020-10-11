@@ -22,4 +22,5 @@ Besides developing this blog-ish dimension, I’m constantly thinking of how to 
 I hope you’ll tune in on the other channels as well - stay tuned. 
 
 ‘til next time, all the best
+
 Anders
