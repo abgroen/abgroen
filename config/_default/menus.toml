@@ -28,21 +28,21 @@
   weight = 4
 
 [[main]]
-  name = "PROJECTS"
-  url = "#projects"
-  weight = 5
-
-[[main]]
   name = "EXPERIENCE"
   url = "#experience"
-  weight = 6
+  weight = 5
 
 [[main]]
   name = "CONTACT"
   url = "#contact"
-  weight = 7
+  weight = 6
 
 ## Excess
+# [[main]]
+#  name = "PROJECTS"
+#  url = "#projects"
+#  weight = 5
+
 # [[main]]
 #  name = "PUBLICATIONS"
 #  url = "#publications"
